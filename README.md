@@ -1,1 +1,1 @@
-# js.desenhoscomretangulo
+# js-desenhoscomretangulo
